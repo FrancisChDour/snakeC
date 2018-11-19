@@ -1,0 +1,21 @@
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _                                                                                                                        * * *   S n a k e   G a m e   F L   * * *                           
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+Comment jouer ? 
+	
+-> Avec les touches Q (gauche), D (droite), Z (haut) et S (bas).
+Ne pas activer la touche majuscule.
+
+Le jeu propose 5 modes :
+
+-> Time trial, une course contre la montre. C’est le joueur qui déplace le serpent mais il a un temps limité pour manger les fruits. Plus il mange de fruits, plus le temps restant augmente.
+
+-> Jeu classique, le mode classique du sanie. Le serpent va de plus en plus vite en fonction du nombre de fruits qu’il a mangé.
+
+-> Mode hardcore, pareil que le jeu classique sauf qu’il y a des obstacles.
+
+-> Mode passe-partout, le serpent possède 3 vies, il peut passer à travers les murs et obstacles, cependant il perd une vie.
+
+-> Laisser faire, laissez donc l’ordinateur jouer à votre place !
+
+Un système de meilleurs scores a été mis en place, essayez donc de battre le précédant.
