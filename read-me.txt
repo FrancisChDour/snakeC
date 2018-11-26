@@ -1,5 +1,14 @@
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _                                                                                                                        * * *   S n a k e   G a m e   F L   * * *                           
 _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+* * *   S n a k e   G a m e   F L   * * *                           
+_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _
+
+
+Projet d'évalutation du module B23 - Télécom Lille
+
+	$ g++ main.c -o snake
+	$ ./snake
+
 
 Comment jouer ? 
 	
@@ -18,4 +27,4 @@ Le jeu propose 5 modes :
 
 -> Laisser faire, laissez donc l’ordinateur jouer à votre place !
 
-Un système de meilleurs scores a été mis en place, essayez donc de battre le précédant.
+Un système de meilleurs scores a été mis en place, essayez donc de battre le précédent.
